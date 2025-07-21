@@ -5,6 +5,7 @@ Ouverte aux opportunités dans les domaines de l’IA ou du développement backe
 
 ## Projets clés
 Chatbot pour le support industriel : LLaMA 3.2 + RAG + API WhatsApp + FastAPI + React
+
 Blog personnel : projet de blog côté frontend (HTML/CSS/JS)
 
 ### Contact
