@@ -9,4 +9,4 @@ Ouverte aux opportunités dans les domaines de l’IA ou du développement backe
 - Blog personnel : projet de blog côté frontend (HTML/CSS/JS)
 
 ## Contact
--Email : sabrinegacem229@gmail.com
+- Email : sabrinegacem229@gmail.com
